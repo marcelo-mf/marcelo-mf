@@ -5,4 +5,4 @@
 
 ### Languages so far:
 
-CSS / HTML / JavaScript
+CSS / HTML / JavaScript / React
